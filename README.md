@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently working on **Flutter**
 
-- 💬 Ask me about **Android, Flutter**
+- 💬 Ask me about **Android, Flutter, Firebase**
 
 - 📫 How to reach me **vkamal297@gmail.com**
 
